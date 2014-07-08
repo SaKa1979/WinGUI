@@ -1,5 +1,5 @@
 #include <windows.h>
-#include "resources.h"
+#include "resource.h"
 
 const char *ClassName = "DemoIcon";
 
